@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": 5.0000,
+        "lat": 43.0000
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 14.38,
+        "feels_like": 13.39,
+        "temp_min": 12.95,
+        "temp_max": 16.33,
+        "pressure": 1016,
+        "humidity": 58,
+        "sea_level": 1016,
+        "grnd_level": 982
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 4.74,
+        "deg": 265,
+        "gust": 4.98
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1679412425,
+    "sys": {
+        "type": 2,
+        "id": 80238,
+        "country": "FR",
+        "sunrise": 1679377198,
+        "sunset": 1679420994
+    },
+    "timezone": 3600,
+    "id": 2982859,
+    "name": "XXXXXXX",
+    "cod": 200
+}
